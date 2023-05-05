@@ -1,6 +1,6 @@
-## Name
+# DevSpace Desktop Web App
 
-DevSpace Desktop Web App
+
 
 ## Description
 
